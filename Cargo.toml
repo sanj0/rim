@@ -13,7 +13,7 @@ rand = "*"
 serde = "*"
 serde_derive = "*"
 term = "*"
-termkey-rs = { git = "git://github.com/mathall/termkey-rs.git" }
+termkey-rs = { git = "https://github.com/mathall/termkey-rs.git" }
 tokio = { version = "*", features = ["rt", "time"] }
 unicode-width = "*"
 uuid = { version = "*", features = ["v4"] }
